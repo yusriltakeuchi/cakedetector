@@ -1,3 +1,4 @@
+
 # Cake Detector
 
 [![Fork](https://img.shields.io/github/forks/yusriltakeuchi/cakedetector?style=social)](https://github.com/yusriltakeuchi/cakedetector/fork)&nbsp; [![Star](https://img.shields.io/github/stars/yusriltakeuchi/cakedetector?style=social)](https://github.com/yusriltakeuchi/cakedetector/star)&nbsp; [![Watches](https://img.shields.io/github/watchers/yusriltakeuchi/cakedetector?style=social)](https://github.com/yusriltakeuchi/cakedetector/)&nbsp;
@@ -19,13 +20,17 @@ mendeteksi sebuah kue dari gambar yang dimasukkan oleh pengguna. Karena keterbat
 
 ### Apps Feature:
 
-- Scan Using Camera & Gallery
-- Image Detection
-- Made with Tensorflow & Teachable Machine
+ - Scan Using Camera & Gallery
+ - Image Detection
+ - Made with Tensorflow & Teachable Machine
  
 
   ### Setup
-  1. git clone https://github.com/yusriltakeuchi/cakedetector.git
-  2. flutter packages get
-  3. flutter run
-  4. Happy coding!
+ 1. git clone https://github.com/yusriltakeuchi/cakedetector.git
+ 2. flutter packages get
+ 3. flutter run
+ 4. Happy coding!
+
+### Resource
+- Datasets: https://www.kaggle.com/ilhamfp31/kue-indonesia
+- Model Trainning: https://teachablemachine.withgoogle.com/
