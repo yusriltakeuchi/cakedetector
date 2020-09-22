@@ -1,7 +1,7 @@
 
 import 'dart:io';
 
-import 'package:cakedetector/core/viewmodels/classify_provider.dart';
+import 'package:cakedetector/core/viewmodels/classify/classify_provider.dart';
 import 'package:cakedetector/ui/constant/constant.dart';
 import 'package:cakedetector/ui/widgets/component/button/primary_button.dart';
 import 'package:cakedetector/ui/widgets/component/info/credits_widget.dart';

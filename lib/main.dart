@@ -1,5 +1,5 @@
 import 'package:animations/animations.dart';
-import 'package:cakedetector/core/viewmodels/classify_provider.dart';
+import 'package:cakedetector/core/viewmodels/classify/classify_provider.dart';
 import 'package:cakedetector/ui/constant/constant.dart';
 import 'package:cakedetector/ui/router/router_generator.dart';
 import 'package:flutter/material.dart';
